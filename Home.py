@@ -7,6 +7,7 @@ from streamlit_option_menu import option_menu
 #Logo
 st.sidebar.image("keepaneyeon-logos_black.png", use_column_width=True)
 
+
 #Hide header and footer
 hide_menu_style = """
                     <style>
