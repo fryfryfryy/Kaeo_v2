@@ -17,11 +17,4 @@ hide_menu_style = """
                     """
 st.markdown(hide_menu_style, unsafe_allow_html=True)
 
-#streamlit option menu component (https://github.com/victoryhb/streamlit-option-menu) Icons are bootstrapped. 
-#with st.sidebar:
-                #selected = option_menu(
-                    #menu_title = "Keep an Eye on", 
-                    #options = ["Location Analysis", "Police Feed", "Sentiment Analysis"],
-                    #menu_icon = "eye-fill",
-                    #icons=["geo-alt-fill", "rss-fill", "twitter"]
-                    #)
+
